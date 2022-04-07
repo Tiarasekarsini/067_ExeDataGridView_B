@@ -167,12 +167,12 @@ namespace ExeDataGridView
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Poor Richard", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.DarkSlateGray;
-            this.label1.Location = new System.Drawing.Point(449, 236);
+            this.label1.Location = new System.Drawing.Point(579, 236);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(545, 180);
             this.label1.TabIndex = 2;
             this.label1.Text = "Data Mahasiswa \r\nProdi TI";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // pictureBox1
             // 
